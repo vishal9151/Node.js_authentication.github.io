@@ -46,28 +46,3 @@ You may also see any lint errors in the console.
 <br/>
 <br/>
 
-## 💻 Screens
-
-
-
-### Register User
-
-![Screenshot (298)](https://github.com/ajaykumar2pp/Nodejs-Authentication-Coding-Ninjas/assets/102378038/6dfe1736-e1c0-470b-b41a-5d46b087ce4e)
-
-
-
-### Login User
-
-![Screenshot (299)](https://github.com/ajaykumar2pp/Nodejs-Authentication-Coding-Ninjas/assets/102378038/26b4b14f-5ac6-4c49-b9ae-88636971addf)
-
-
-### Reset Password User 
-
-![Screenshot (300)](https://github.com/ajaykumar2pp/Nodejs-Authentication-Coding-Ninjas/assets/102378038/6fde7922-2518-47dc-97d3-494c6247fd42)
-
-### Logout User
-
-
-![Screenshot (301)](https://github.com/ajaykumar2pp/Nodejs-Authentication-Coding-Ninjas/assets/102378038/124c7d27-eee8-4701-a02d-df1c1e5e7a14)
-
-
